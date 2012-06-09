@@ -1,2 +1,1 @@
-main program configuration and resources
-======
+#Main configuration and resources
