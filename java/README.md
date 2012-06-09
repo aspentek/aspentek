@@ -1,3 +1,1 @@
-java - directory for java projects
-========
-
+#Java projects
