@@ -1,2 +1,2 @@
-project specitic directory
+project specific directory
 ======
