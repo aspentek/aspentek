@@ -1,2 +1,2 @@
-main program directory
+Main directory
 ======
