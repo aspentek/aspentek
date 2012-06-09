@@ -1,2 +1,2 @@
-source code of the main program
+main program source code
 ======

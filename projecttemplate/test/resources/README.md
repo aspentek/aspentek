@@ -1,2 +1,2 @@
-resources and configuration of the unit tests
+unit test resources and configuration
 ======
