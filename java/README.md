@@ -1,3 +1,2 @@
-java - the directory for all things java
-
-==========================
+java - directory for all things java
+========
