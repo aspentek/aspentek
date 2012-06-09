@@ -1,2 +1,2 @@
-resources/config of the main program
+resources and configuration of the main program
 ======
