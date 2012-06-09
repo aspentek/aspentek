@@ -1,7 +1,7 @@
 java - directory for all things java
 ========
 
-The intended directory structure for a "projectname" is as follows:
+The intended directory structure for a project is as follows:
 
 "projectname"/main/src - contains java source code for the main program
 
