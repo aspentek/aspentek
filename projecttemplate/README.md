@@ -1,6 +1,6 @@
 #Project directory
 
-##Directory structure for a project should be setup as follows:
+##Directory structure for a project
 ###main/src - contains java source code for the main program
 ###main/resources - contains java specific configuration/resources for the main program
 ###test/src - contains java source code for unit tests
