@@ -1,4 +1,4 @@
-#project specific directory
+#Project directory
 
 ##Directory structure for a project should be setup as follows:
 ###main/src - contains java source code for the main program
